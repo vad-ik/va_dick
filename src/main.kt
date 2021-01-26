@@ -8,5 +8,6 @@ fun main() {
     }
     println(isSasha("Sasha"))
     println(isVadik("Sasha"))
+    ///ffff
 }
 
